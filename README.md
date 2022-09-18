@@ -34,11 +34,11 @@ A.建议扫描的站点均为已经确认的Tomcat终端管理页面，提高效
 
 B.Windows2008及以下版本Windows需要安装Curl，并且进行全局环境变量配置
 
-![01](\image\01.jpg)
+![01](/image/01.jpg)
 
 基本上Tomcat弱口令必拿WebShell，这个就不多赘述
 
-![02](\image\02.jpg)
+![02](/image/02.jpg)
 
 WebShell免杀生成可以见我Github项目:
 
